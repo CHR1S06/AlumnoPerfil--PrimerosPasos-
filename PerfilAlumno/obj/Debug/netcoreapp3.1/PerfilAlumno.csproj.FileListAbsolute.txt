@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.exe
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.deps.json
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.runtimeconfig.json
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.dll
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\bin\Debug\netcoreapp3.1\PerfilAlumno.pdb
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.dll
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.pdb
+C:\Users\UserGPC\source\repos\PerfilAlumno\PerfilAlumno\obj\Debug\netcoreapp3.1\PerfilAlumno.genruntimeconfig.cache
